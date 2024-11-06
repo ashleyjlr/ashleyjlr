@@ -17,7 +17,8 @@ Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, wher
 - **Frameworks & Libraries**:
   - React
   - Three.js
-  - OpenGL
+  - OpenGL/WebGL
+  - Angular
 
 - **Specializations**:
   - Game Development
