@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ashley La Rotonda (Ash)!
 
-Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, where I work on optimizing a web-based game engine for DraftKings Casino. My journey so far has involved exploring front-end development, backend data pipelines, game development, and networked AI—all fueled by my passion for programming and problem-solving.
+Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, where I work on optimizing a web-based game engine for DraftKings Casino. My journey so far has involved exploring front-end and back-end development, game development, and more, all fueled by my passion for programming and problem-solving.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, wher
   - HTML/CSS
   - Python
   - JavaScript
-  - C++
+  - C/C++
   - Java
 
 - **Frameworks & Libraries**:
@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, wher
 
 - **Specializations**:
   - Game Development
-  - 3D Object Visualization (Phong Illumination, Cel Shading)
+  - Graphics
   - Web Development & UI/UX Design
-  - Networked AI Competition with JSON
+  - Fullstack Engineering
 
 ---
 
@@ -38,8 +38,7 @@ Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, wher
 ## 🚀 Things I'm Part Of
 
 - **Storm Flag**: Associate Game Engineer working on complex game logic and configurations.
-- **DraftKings Casino**: Contributing to enhancing and optimizing web-based gaming experiences.
-- **University Projects**: Developing games and visualizations with advanced lighting models, Model/View/Control design patterns, and Three.js for interactive web projects.
+- **NU Barkada**: Northeastern Univeristy premiere FIlipino student organization.
 
 ---
 
