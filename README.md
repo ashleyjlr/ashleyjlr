@@ -31,8 +31,7 @@ Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, wher
 ## 🌱 About Me
 
 - I'm a **3rd-year student** navigating the tech landscape with a deep interest in both **industry and research**. While my roots are in practical application through various internships, I'm also curious about exploring **research**—especially in logic and proof-solving.
-- My interests extend to photography, where I enjoy capturing **interactive spaces** and exploring themes of **friendship and connection**.
-- I'm passionate about expressing my identity through clothing and thoughtful purchases, though I strive to balance this with a desire to avoid consumerism.
+- My interests extend to photography, dance, and jewelry-making!
 
 ---
 
@@ -40,6 +39,7 @@ Welcome to my GitHub profile! I'm an Associate Game Engineer at Storm Flag, wher
 
 - **Storm Flag**: Associate Game Engineer working on complex game logic and configurations.
 - **NU Barkada**: Northeastern Univeristy premiere FIlipino student organization.
+- **The Avenue Magazine**: Photographer and ex-Set Design Director for school fashion, culture, and lifestyle magazine.
 
 ---
 
